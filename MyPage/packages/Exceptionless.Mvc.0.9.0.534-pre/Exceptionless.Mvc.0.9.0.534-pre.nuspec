@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Exceptionless.Mvc</id>
+    <version>0.9.0.534-pre</version>
+    <authors>Exceptionless</authors>
+    <owners>Exceptionless</owners>
+    <projectUrl>http://exceptionless.com/</projectUrl>
+    <iconUrl>http://exceptionless.com/images/exceptionless-32.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Exceptionless is a cloud based error reporting service that sends your exceptions to http://exceptionless.com and provides aggregated views and analytics.</description>
+    <releaseNotes>Pre release client.</releaseNotes>
+    <tags>Error Report Reporting Exception Logging Log</tags>
+    <dependencies>
+      <dependency id="Exceptionless" version="[0.9.0.534-pre]" />
+    </dependencies>
+    <references>
+      <reference file="Exceptionless.Mvc.dll" />
+    </references>
+  </metadata>
+</package>
