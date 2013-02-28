@@ -23,5 +23,19 @@ namespace MyPage.Controllers
 
             return View();
         }
+
+        public ActionResult Reviews()
+        {
+            ViewBag.Message = "Reviews";
+
+            return View();
+        }
+
+        public ActionResult Galaga()
+        {
+            ViewBag.Message = "Galaga Game";
+
+            return View();
+        }
     }
 }
