@@ -200,8 +200,9 @@
     <Content Include="Content\Site.css" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Images\background.png" />
+    <Content Include="Images\Myself2.jpg" />
+    <Content Include="Images\Banner.png" />
     <Content Include="Images\Myself.jpg" />
-    <Content Include="Images\TempBanner.jpg" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
